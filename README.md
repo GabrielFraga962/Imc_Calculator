@@ -1,4 +1,4 @@
-# Imc_Calculator
+# Imc_Calculator 🧮
 
 ---
 
