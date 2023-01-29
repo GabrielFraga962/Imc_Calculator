@@ -10,11 +10,6 @@
 [![Git](https://skills.thijs.gg/icons?i=git)](https://pt.wikipedia.org/wiki/Git)
 [![VSCode](https://skills.thijs.gg/icons?i=vscode)](https://pt.wikipedia.org/wiki/Visual_Studio_Code)
 [![GitHub](https://skills.thijs.gg/icons?i=github)](https://pt.wikipedia.org/wiki/GitHub)
-***
-
-***
-#### 🔸Pré-visualização (screenshot):
-[![imc](https://user-images.githubusercontent.com/80191040/184726904-f463b618-fe4a-4600-9b5d-bc0d802df395.png)](https://github.com/GabrielFraga962/Imc_Calculator)
 
 ***
 ### <p align="center">🔸[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)🔸</p>
