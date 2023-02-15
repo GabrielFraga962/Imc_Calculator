@@ -1,4 +1,4 @@
-## calculadora-imc
+# Calculadora-imc
 🔸O meu projeto sobre o cálculo do índice de massa corporal, atualmente, resume-se em peso divido pela altura ao quadrado onde o resultado determinará qual mensagem retornar para exibir, mas existem condições em que a idade e o sexo biológico influenciará no resultado. 
 ***
 #### 🔸Tecnologias utilizadas:
